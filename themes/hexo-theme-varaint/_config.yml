@@ -6,8 +6,8 @@ favicon: /favicon.png
 # author headimg
 headimg: https://imgchr.github.la/steve.jpeg
 # author info
-name: justpsvm
-description: Stay Hungry,Stay Foolish.
+name: ぱないの
+description: freelancer
 
 # search
 search: 
@@ -19,8 +19,8 @@ sidebar:
   enable: true
   menus:
     -
-      name: Weibo
-      link: http://weibo.com/
+      name: tumbler
+      link: https://www.tumblr.com/
       target: _blank
 
 # count(统计)
@@ -29,8 +29,8 @@ count:
 
 # comments
 comments:
-  duoshuo_username:  justpsvm
-  #disqus_username: justpsvm
+  duoshuo_username:  
+  #disqus_username: 
 
 # accounts support weibo/github/zhihu/twitter/douban 
 # display to former three
@@ -44,12 +44,12 @@ social:
   -
     name: zhihu
     link: https://www.zhihu.com/
-#  -
-#    name: twitter
-#    link: 
-#  -
-#    name: douban
-#    link: 
+  -
+    name: twitter
+    link: 
+  -
+    name: douban
+    link: 
 
 
 
