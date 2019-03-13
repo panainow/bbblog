@@ -23,6 +23,12 @@ sidebar:
       link: https://www.tumblr.com/
       target: _blank
 
+      name: Netlify
+      link: https://www.netlify.com/
+      target: _blank
+
+
+
 # count(统计)
 count:
   enable: true
