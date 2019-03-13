@@ -22,7 +22,7 @@ sidebar:
       name: tumbler
       link: https://www.tumblr.com/
       target: _blank
-
+    -
       name: Netlify
       link: https://www.netlify.com/
       target: _blank
